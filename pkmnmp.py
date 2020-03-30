@@ -497,7 +497,7 @@ class TelegramBot:
     def main(self):
         """Start the bot."""
         # Create the EventHandler and pass it your bot's token.
-        updater = Updater("548102564:AAEjNNkQksJ2x65g9Ik_eEBgeI8vrBXMleQ")
+        updater = Updater("XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 
         # Get the dispatcher to register handlers
         dp = updater.dispatcher
